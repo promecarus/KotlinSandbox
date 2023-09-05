@@ -1,35 +1,154 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc0a9ec4-e2a0-46e4-a709-00e3172670b1" name="Changes" comment="" />
+    <list default="true" id="dc0a9ec4-e2a0-46e4-a709-00e3172670b1" name="Changes" comment="Multiply.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/codewars/VowelCount.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KotlinCodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": -1
-}]]></component>
+  <component name="OptimizeOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2UFdYi4VZU6gVyUEDYhIdqyJMze" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+    "code.cleanup.on.save": "true",
+    "git-widget-placeholder": "main",
+    "rearrange.code.on.save": "true",
+    "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
+  <component name="Push.Settings">
+    <force-push-targets>
+      <force-push-target remote-path="origin" branch="main" />
+    </force-push-targets>
+  </component>
+  <component name="RunManager" selected="JUnit.TestMultiply">
+    <configuration name="MultiplicationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="KotlinSandbox" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codewars.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="codewars" />
+      <option name="MAIN_CLASS_NAME" value="codewars.MultiplicationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestConvertANumberToAString.testFixed" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="KotlinSandbox" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codewars.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="codewars" />
+      <option name="MAIN_CLASS_NAME" value="codewars.TestConvertANumberToAString" />
+      <option name="METHOD_NAME" value="testFixed" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMultiply" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="KotlinSandbox" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codewars.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="codewars" />
+      <option name="MAIN_CLASS_NAME" value="codewars.TestMultiply" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMultiply.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="KotlinSandbox" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codewars.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="codewars" />
+      <option name="MAIN_CLASS_NAME" value="codewars.TestMultiply" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <module name="KotlinSandbox" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestMultiply" />
+        <item itemvalue="JUnit.TestMultiply.test" />
+        <item itemvalue="JUnit.TestConvertANumberToAString.testFixed" />
+        <item itemvalue="JUnit.MultiplicationTest" />
+        <item itemvalue="Kotlin.MainKt" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -39,6 +158,168 @@
       <option name="presentableId" value="Default" />
       <updated>1692539313860</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1692539400148</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1692539400148</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Mobile notifications">
+      <option name="closed" value="true" />
+      <created>1692540083815</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1692540083815</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Movie-ticket price">
+      <option name="closed" value="true" />
+      <created>1692577778828</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1692577778828</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Temperature converter">
+      <option name="closed" value="true" />
+      <created>1692578293955</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1692578293955</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Song catalog">
+      <option name="closed" value="true" />
+      <created>1692578532806</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1692578532806</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Internet profile">
+      <option name="closed" value="true" />
+      <created>1692578860133</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1692578860133</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Foldable phones">
+      <option name="closed" value="true" />
+      <created>1692579291239</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1692579291239</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Special auction">
+      <option name="closed" value="true" />
+      <created>1693878409346</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1693878409346</updated>
+    </task>
+    <task id="LOCAL-00009" summary="a">
+      <option name="closed" value="true" />
+      <created>1693881616336</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1693881616336</updated>
+    </task>
+    <task id="LOCAL-00010" summary="misc">
+      <option name="closed" value="true" />
+      <created>1693881929956</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1693881929956</updated>
+    </task>
+    <task id="LOCAL-00011" summary="misc">
+      <option name="closed" value="true" />
+      <created>1693881995524</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1693881995524</updated>
+    </task>
+    <task id="LOCAL-00012" summary="ConvertANumberToAString.kt">
+      <option name="closed" value="true" />
+      <created>1693882493018</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1693882493018</updated>
+    </task>
+    <task id="LOCAL-00013" summary="EvenOrOdd.kt">
+      <option name="closed" value="true" />
+      <created>1693882547171</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1693882547171</updated>
+    </task>
+    <task id="LOCAL-00014" summary="MultiplesOf3Or5.kt">
+      <option name="closed" value="true" />
+      <created>1693882597583</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1693882597583</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Multiply.kt">
+      <option name="closed" value="true" />
+      <created>1693882656638</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1693882656638</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <MESSAGE value="Mobile notifications" />
+    <MESSAGE value="Movie-ticket price" />
+    <MESSAGE value="Temperature converter" />
+    <MESSAGE value="Song catalog" />
+    <MESSAGE value="Internet profile" />
+    <MESSAGE value="Foldable phones" />
+    <MESSAGE value="Special auction" />
+    <MESSAGE value="a" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <MESSAGE value="misc" />
+    <MESSAGE value="ConvertANumberToAString.kt" />
+    <MESSAGE value="EvenOrOdd.kt" />
+    <MESSAGE value="MultiplesOf3Or5.kt" />
+    <MESSAGE value="Multiply.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Multiply.kt" />
   </component>
 </project>
